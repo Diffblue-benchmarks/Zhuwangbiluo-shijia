@@ -6,15 +6,15 @@
 
 # 个人信息
 
- - 刘永明/男/1991.06
- - 丽水学院/计算机科学与技术
- - 英语六级/系统架构师（国家认证）
- - 技术博客：[http://zhuwangbiluo.cn/](http://zhuwangbiluo.cn/) 
- - 荣誉奖励：国家奖学金/校十佳大学生/校优秀毕业生
- - Github：[https://github.com/zhuwangbiluo ](https://github.com/zhuwangbiluo)
- - Github Resume: [https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/PersonalResume/resume.md](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/PersonalResume/resume.md)
- - 期望职位：Java架构师/服务端主管
- - 期望城市：杭州
+- 刘永明/男/1991.06
+- 丽水学院/计算机科学与技术
+- 英语六级/系统架构师（国家认证）
+- 技术博客：[http://zhuwangbiluo.cn/](http://zhuwangbiluo.cn/) 
+- 荣誉奖励：国家奖学金/校十佳大学生/校优秀毕业生
+- Github：[https://github.com/zhuwangbiluo ](https://github.com/zhuwangbiluo)
+- Github Resume: [https://github.com/zhuwangbiluo/shijia/blob/master/resume.md](https://github.com/zhuwangbiluo/shijia/blob/master/resume.md)
+- 期望职位：Java架构师/服务端主管
+- 期望城市：杭州
  
 
 # 项目经历
