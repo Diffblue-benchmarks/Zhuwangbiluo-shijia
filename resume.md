@@ -37,43 +37,36 @@
 
 ## 开源项目
 
-- [Java-Guide](https://github.com/Snailclimb/Java-Guide) ：一份涵盖大部分Java程序员所需要掌握的核心知识。Star:3.9K; Fork:0.9k。
-
+- [incubator-technology](https://github.com/fanhaoyuegroup/incubator-technology) ：为了更好的促进团队的学习技术氛围，同步记录学习成果，为新同学提供优质的学习资料，我们决定维护一份优质的技术学习资料，推动大家共同进步。
 
 ## 技术文章推荐
 
-- [可能是把Java内存区域讲的最清楚的一篇文章](https://juejin.im/post/5b7d69e4e51d4538ca5730cb)
-- [搞定JVM垃圾回收就是这么简单](https://juejin.im/post/5b85ea54e51d4538dd08f601)
-- [前端&后端程序员必备的Linux基础知识](https://juejin.im/post/5b3b19856fb9a04fa42f8c71)
-- [可能是把Docker的概念讲的最清楚的一篇文章](https://juejin.im/post/5b260ec26fb9a00e8e4b031a)
+- [延时队列设计方案](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/Fandianer/%E5%BB%B6%E6%97%B6%E6%B6%88%E6%81%AF%E8%AE%BE%E8%AE%A1.md)
+- [Redis高可用方案](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/Redis/Redis%E9%AB%98%E5%8F%AF%E7%94%A8/Redis%E9%AB%98%E5%8F%AF%E7%94%A8%E6%96%B9%E6%A1%88.md)
 
 
 # 校园经历（可选）
 
 ## 2016-2017
 
-担任学校社团-致深社副会长，主要负责团队每周活动的组建以及每周例会的主持。
+担任班级团支书、副班长、学习委员，主要负责团支部、班级等相关事项。
 
 ## 2017-2018
- 担任学校传媒组织：“长江大学在线信息传媒”的副站长以及安卓组成员。主要负责每周例会主持、活动策划以及学校校园通APP的研发工作。
- 
+ 参与过ACM竞赛实验室、Java实验室等
  
 # 技能清单
 
 以下均为我熟练使用的技能
 
 - Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+- 前端框架：Bootstrap/HTML5/CSS
+- 数据库相关：MySQL/SQL Server等
+- 版本管理、文档和自动化部署工具：Svn/Git/Maven/Jekins
+- 单元测试：Junit/EasyMock/Sonar
 
 # 自我评价（可选）
 
-自我发挥。切记不要过度自夸！！！
+我只是个挖坑和填坑的小开发~
 
 
 ### 感谢您花时间阅读我的简历，期待能有机会和您共事。
