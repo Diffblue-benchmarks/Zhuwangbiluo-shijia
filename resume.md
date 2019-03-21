@@ -43,6 +43,7 @@
 - [团队文档大纲](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/Fandianer/%E5%9B%A2%E9%98%9F%E6%96%87%E6%A1%A3%E5%A4%A7%E7%BA%B2.md)
 
 #### 技术类
+- [减库存设计的核心逻辑](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/Fandianer/%E5%BB%B6%E6%97%B6%E6%B6%88%E6%81%AF%E8%AE%BE%E8%AE%A1.md)
 - [延时队列设计方案](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/Fandianer/%E5%BB%B6%E6%97%B6%E6%B6%88%E6%81%AF%E8%AE%BE%E8%AE%A1.md)
 - [Redis高可用方案](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/Redis/Redis%E9%AB%98%E5%8F%AF%E7%94%A8/Redis%E9%AB%98%E5%8F%AF%E7%94%A8%E6%96%B9%E6%A1%88.md)
 - [营销、优惠活动和优惠券设计方案](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/Fandianer/%E8%90%A5%E9%94%80%E6%B4%BB%E5%8A%A8%26%E4%BC%98%E6%83%A0%E5%88%B8%E6%B4%BB%E5%8A%A8%26%E4%BC%98%E6%83%A0%E5%88%B8%E4%B8%AD%E5%BF%83.md)
