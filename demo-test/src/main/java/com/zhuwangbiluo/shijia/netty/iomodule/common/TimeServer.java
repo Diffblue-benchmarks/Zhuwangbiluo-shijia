@@ -1,4 +1,4 @@
-package com.zhuwangbiluo.shijia.netty.IOModule.BIO;
+package com.zhuwangbiluo.shijia.netty.iomodule.common;
 
 import java.io.IOException;
 import java.net.ServerSocket;
