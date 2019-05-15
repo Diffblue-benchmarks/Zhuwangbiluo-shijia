@@ -8,7 +8,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * TImeServer
+ * TImeServer（伪异步IO）
  *
  * @author shijia.lym
  * @since 2019-05-09
