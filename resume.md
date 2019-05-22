@@ -62,6 +62,7 @@
 
 #### 读书笔记
 - [首席增长官](https://github.com/zhuwangbiluo/shijia/blob/master/reading-notes/Books/%E8%BF%90%E8%90%A5/%E9%A6%96%E5%B8%AD%E5%A2%9E%E9%95%BF%E5%AE%98.md)
+- [流量池](https://github.com/zhuwangbiluo/shijia/blob/master/reading-notes/Books/%E8%BF%90%E8%90%A5/%E6%B5%81%E9%87%8F%E6%B1%A0.md)
 
 # 校园经历（可选）
 
