@@ -60,6 +60,8 @@
 - [Redis高可用方案](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/Redis/Redis%E9%AB%98%E5%8F%AF%E7%94%A8/Redis%E9%AB%98%E5%8F%AF%E7%94%A8%E6%96%B9%E6%A1%88.md)
 - [营销、优惠活动和优惠券设计方案](https://github.com/zhuwangbiluo/shijia/blob/master/personal-document/Fandianer/%E8%90%A5%E9%94%80%E6%B4%BB%E5%8A%A8%26%E4%BC%98%E6%83%A0%E5%88%B8%E6%B4%BB%E5%8A%A8%26%E4%BC%98%E6%83%A0%E5%88%B8%E4%B8%AD%E5%BF%83.md)
 
+#### 读书笔记
+- [首席增长官](https://github.com/zhuwangbiluo/shijia/blob/master/reading-notes/Books/%E8%BF%90%E8%90%A5/%E9%A6%96%E5%B8%AD%E5%A2%9E%E9%95%BF%E5%AE%98.md)
 
 # 校园经历（可选）
 
